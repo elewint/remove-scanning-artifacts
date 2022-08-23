@@ -26,5 +26,7 @@ Correctly implemented:
 
 No known problems/limitations!
 
+---
+
 Time spent:
 36 hrs as of submission
